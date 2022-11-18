@@ -37,6 +37,6 @@ saveMyScore = e => {
     score1.splice(5);
 
     localStorage.setItem('score1', JSON.stringify(score1));
-    window.location.assign("frontgamepage.html");
+    window.location.assign("index.html");
     console.log(score1);
 };
