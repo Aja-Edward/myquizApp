@@ -186,7 +186,7 @@ h3 {
 }
 
 .numberquestions input::placeholder {
-    color: #56a5eb;
+    color: #43853D ;
 }
 
 .label {
@@ -198,7 +198,9 @@ h3 {
     border: none;
     color: #43853D;
 }
-
+.label-1 {
+    color: #ffffff;
+}
 .radiobtn {
     height: 2rem;
     width: 2rem;
